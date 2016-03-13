@@ -1,0 +1,27 @@
+.leftBanner {
+	float: left;
+	padding-top: 5px;
+	padding-bottom: 8px;
+}
+
+.rightBanner {
+	position: relative;
+	top: 16px;
+	float: right;
+	border-left: medium #011640 solid;
+	padding-left: 3px;
+}
+
+.acadLogo {
+	position: relative;
+	top: 5px;
+	left: 10px;
+}
+
+#nuscc {
+	font-size: 30px;
+}
+
+.navbar {
+	background-color: #0085A1
+}
